@@ -1,0 +1,12 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PAMCAM Web App</title>
+</head>
+<body>
+  <h1>Welcome to PAMCAM</h1>
+  <p>This is the future home of the PAMCAM tool!</p>
+</body>
+</html>
